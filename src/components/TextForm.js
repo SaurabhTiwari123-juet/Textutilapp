@@ -1,4 +1,7 @@
 /** @format */
+// here all the text appears and all the
+// functions are present
+
 import React, { useState } from "react";
 
 export default function TextForm(props) {
